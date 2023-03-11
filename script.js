@@ -20,11 +20,13 @@ async function getTitle(){
             <div class="papers-container" id="papers-container-2">
             
                 <center>
+                <a id="" href="https://einsteinpapers.press.princeton.edu/" target="_blank">
                     <div class="paper">
                         <div class="paper-image"><img id="papers-img" src="images/research-paper.jpg" alt=""></div>
                         <div class="paper-title"><p id="paper-title-1" style="margin: 0;">${book.title}</p></div>
                         
                     </div>
+                    </a>
                 </center>
             </div>
 
